@@ -23,6 +23,20 @@ header {
   padding: 1em;
 }
 
+footer {
+  background-color: #ffe6f3;
+}
+
+nav a {
+  color: #fff;
+  display: inline-block;
+  text-decoration: none;
+  width: 100%;
+  transition: 550ms;
+  padding: .3rem;
+  float: right;
+}
+
 img-flex.resize {
   max-width:50%;
   max-height:50%;
