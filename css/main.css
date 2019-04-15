@@ -20,9 +20,14 @@ header nav a {
   transition: 550ms;
 }
 
-heder nav a:hover {
+header nav a:hover {
   background-color: #434345;
   transition: 550ms;
+  border-radius: 5px;
+}
+
+.current {
+  background: #434345;
   border-radius: 5px;
 }
 
@@ -30,7 +35,65 @@ heder nav a:hover {
   max-width: 5rem;
 }
 
-header {
-  background-color: #ffe6f3;
-  padding: 1em;
+main {
+  font-family: Roboto, serif;
+}
+
+h1,
+label {
+  font-family: Lato, sans-serif;
+  font-family: bold;
+}
+
+label {
+  color: #434345;
+}
+
+.h1-white {
+  color: #fff;
+  width: 15rem;
+}
+
+.banner-content {
+  left: 50%;
+  top: 10%;
+  transform: translateX(-50%);
+}
+
+.value-proposition {
+  background-color: rgba(5, 5, 5, .6);
+  border-radius: 8px;
+}
+
+.caption {
+  color: #434345;
+}
+
+h2 {
+  font-family: lato, sans-serif;
+  color: #434345;
+}
+
+caption {
+  font-family: Lato, sans-serif;
+  color: #c168b0;
+}
+
+h3 {
+  font-family: Lato, sans-serif;
+  color: #c168b0;
+}
+
+p {
+  width: 100%;
+}
+
+.feature-icons {
+  max width: 3rem;
+  position: center;
+}
+
+footer a {
+  color: #c168b0;
+  text-decoration: none;
 }
