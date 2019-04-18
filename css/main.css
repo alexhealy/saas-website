@@ -1,5 +1,5 @@
 header {
-  background: #f4d3f1;
+  background: #191919;
 }
 
 header nav {
@@ -12,7 +12,7 @@ header nav li {
 }
 
 header nav a {
-  color: #000;
+  color: #fff;
   display: inline-block;
   text-decoration: none;
   font-family: Roboto, sans-serif;
@@ -21,7 +21,7 @@ header nav a {
 }
 
 header nav a:hover {
-  background-color: #fff;
+  background-color: #ea6cac;
   transition: 550ms;
   border-radius: 5px;
 }
