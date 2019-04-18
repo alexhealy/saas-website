@@ -101,3 +101,7 @@ footer a {
 .footer-content {
   transform: translateY(-40px);
 }
+
+footer {
+  background-color: #ffe6f3;
+}
