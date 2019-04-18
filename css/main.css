@@ -12,7 +12,7 @@ header nav li {
 }
 
 header nav a {
-  color: #000000;
+  color: #000;
   display: inline-block;
   text-decoration: none;
   font-family: Roboto, sans-serif;
@@ -85,16 +85,21 @@ h3 {
 }
 
 p {
+  font-family: Roboto, serif;
+}
+
+.break {
   width: 100%;
 }
 
-.feature-icons {
-  max width: 3rem;
+.feature-icon {
+  max-width: 3rem;
 }
 
 footer a {
   color: #c168b0;
   text-decoration: none;
+  font-family: Roboto, serif;
 }
 
 .footer-content {
