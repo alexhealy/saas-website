@@ -21,7 +21,7 @@ header nav a {
 }
 
 header nav a:hover {
-  background-color: #434345;
+  background-color: #f279c2;
   transition: 550ms;
   border-radius: 5px;
 }
