@@ -15,7 +15,7 @@ header nav a {
   color: #000000;
   display: inline-block;
   text-decoration: none;
-  font-family: Lato, sans-serif;
+  font-family: Roboto, sans-serif;
   width: 100%;
   transition: 550ms;
 }
@@ -41,7 +41,7 @@ main {
 
 h1,
 label {
-  font-family: Lato, sans-serif;
+  font-family: Roboto, sans-serif;
   font-family: bold;
 }
 
@@ -70,17 +70,17 @@ label {
 }
 
 h2 {
-  font-family: lato, sans-serif;
+  font-family: Roboto, sans-serif;
   color: #434345;
 }
 
 caption {
-  font-family: Lato, sans-serif;
+  font-family: Roboto, sans-serif;
   color: #c168b0;
 }
 
 h3 {
-  font-family: Lato, sans-serif;
+  font-family: Roboto, sans-serif;
   color: #c168b0;
 }
 
