@@ -97,3 +97,7 @@ footer a {
   color: #c168b0;
   text-decoration: none;
 }
+
+.footer-content {
+  transform: translateY(-40px);
+}
