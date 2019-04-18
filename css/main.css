@@ -109,3 +109,49 @@ footer a {
 footer {
   background-color: #ffe6f3;
 }
+
+footer ol li {
+  display: inline;
+}
+
+ol {
+  text-align: right;
+  width: 50%
+}
+
+.section-feature {
+  margin: auto 0;
+  text-align: center;
+}
+
+.sociallink {
+  max-width: 2rem;
+}
+
+.social-fb {
+  max-height: 1.75rem;
+}
+
+.btn {
+  background-color: #c62c84;
+}
+
+.btn a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.limit {
+  max-width: 25em;
+}
+
+hr {
+  max-width: 25em;
+  margin: 0 auto;
+  border: 2px solid
+}
+
+.banner-height {
+  min-height: 14em;
+  background-color: #fff;
+}
